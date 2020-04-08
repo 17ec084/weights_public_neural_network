@@ -1,0 +1,2 @@
+# weights_public_neural_network
+ニューラルネットワークを実装してみた。外部から重みを自由にいじれるように工夫した
